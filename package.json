@@ -1,0 +1,20 @@
+{
+  "name": "chrome-headless-lambda",
+  "version": "1.0.0",
+  "description": "Chrome headless for AWS lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chrome",
+    "headless",
+    "chromium",
+    "aws",
+    "lambda",
+    "aws",
+    "serverless"
+  ],
+  "author": "Boris-Emmanuel Tchangang",
+  "license": "ISC"
+}
